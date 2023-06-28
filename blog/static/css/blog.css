@@ -23,6 +23,7 @@ h4 {
 
 .date {
     color: #7b7b7b;
+    margin-right: 20px;
 }
 
 .save {
@@ -40,7 +41,7 @@ h4 {
     color: #ffffff;
     float: right;
     font-size: 26pt;
-    margin-right: 20px;
+    
 }
 
 .post {
