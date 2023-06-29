@@ -74,12 +74,12 @@ h4 {
     background: none;
     border-color: #C25100;
     position: absolute;
-    top: 37px;
-    left: 1375px;
+    top: 80px;
+    left: 1320px;
 }
 
 .btn-third:hover {
-    color: #FFFFFF;
+    color: #000000;
     background-color: #C25100;
 }
 
@@ -91,5 +91,23 @@ h4 {
 
 .btn-default:hover {
     color: #FFFFFF;
+    background-color: #C25100;
+}
+
+.comment{
+    margin: 20px 0px 20px 20px;
+}
+
+.btn-fourth,.btn-fourth:visited{
+    color: #672b00;
+    background: none;
+    border-color: #C25100;
+    position: absolute;
+    top: 80px;
+    left: 1350px;
+}
+
+.btn-fourth:hover {
+    color: #ffffff;
     background-color: #C25100;
 }
