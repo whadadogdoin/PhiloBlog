@@ -1,6 +1,8 @@
 .page-header {
-    background-color: #C25100;
-    margin-top: 0;
+    background-color: #746464;
+    background-image: url(https://www.yorku.ca/laps/phil/wp-content/uploads/sites/213/2021/01/PHILBanner1536x430.jpg?auto=compress&cs=tinysrgb&h=500&w=1260);
+    height: 200px;
+    margin-top: 0px;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
 }
@@ -38,9 +40,12 @@ h4 {
 .top-menu,
 .top-menu:hover,
 .top-menu:visited {
-    color: #6e1616;
+    color: #000000;
+    font-family: 'Lobster', cursive;
     float: right;
-    font-size: 26pt;
+    font-size: 30pt;
+    position: relative;
+    top
 }
 
 .post {
@@ -59,39 +64,39 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited{
-    color: #C25100;
+    color: #000000;
     background: none;
-    border-color: #C25100;
+    border-color: #ffffff;
 }
 
 .btn-secondary:hover{
-    color: #FFFFFF;
-    background-color: #C25100;
+    color: #000000;
+    background-color: #ffffff;
 }
 
 .btn-third,.btn-third:visited{
-    color: #672b00;
+    color: #000000;
     background: none;
-    border-color: #C25100;
+    border-color: #ffffff;
     position: absolute;
-    top: 80px;
+    top: 200px;
     left: 1320px;
 }
 
 .btn-third:hover {
     color: #000000;
-    background-color: #C25100;
+    background-color: #ffffff;
 }
 
 .btn-default,.btn-default:visited{
-    color: #672b00;
+    color: #000000;
     background: none;
-    border-color: #C25100;
+    border-color: #ffffff;
 }
 
 .btn-default:hover {
-    color: #FFFFFF;
-    background-color: #C25100;
+    color: #000000;
+    background-color: #ffffff;
 }
 
 .comment{
@@ -99,15 +104,15 @@ h4 {
 }
 
 .btn-fourth,.btn-fourth:visited{
-    color: #672b00;
+    color: #000000;
     background: none;
-    border-color: #C25100;
+    border-color: #ffffff;
     position: absolute;
-    top: 80px;
+    top: 200px;
     left: 1350px;
 }
 
 .btn-fourth:hover {
-    color: #ffffff;
-    background-color: #C25100;
+    color: #000000;
+    background-color: #ffffff;
 }
