@@ -66,7 +66,7 @@ h4 {
 .btn-secondary:visited{
     color: #000000;
     background: none;
-    border-color: #ffffff;
+    border-color: #0f0859;
 }
 
 .btn-secondary:hover{
@@ -77,7 +77,7 @@ h4 {
 .btn-third,.btn-third:visited{
     color: #000000;
     background: none;
-    border-color: #ffffff;
+    border-color: #0f0859;
     position: absolute;
     top: 200px;
     left: 1320px;
@@ -91,7 +91,7 @@ h4 {
 .btn-default,.btn-default:visited{
     color: #000000;
     background: none;
-    border-color: #ffffff;
+    border-color: #0f0859;
 }
 
 .btn-default:hover {
@@ -106,7 +106,7 @@ h4 {
 .btn-fourth,.btn-fourth:visited{
     color: #000000;
     background: none;
-    border-color: #6d3a3a;
+    border-color: #0f0859;
     position: absolute;
     top: 200px;
     left: 1350px;
