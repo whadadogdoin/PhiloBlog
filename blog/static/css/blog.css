@@ -38,10 +38,9 @@ h4 {
 .top-menu,
 .top-menu:hover,
 .top-menu:visited {
-    color: #ffffff;
+    color: #6e1616;
     float: right;
     font-size: 26pt;
-    
 }
 
 .post {
@@ -59,13 +58,38 @@ h4 {
 }
 
 .btn-secondary,
-.btn-secondary:visited {
+.btn-secondary:visited{
     color: #C25100;
     background: none;
     border-color: #C25100;
 }
 
-.btn-secondary:hover {
+.btn-secondary:hover{
+    color: #FFFFFF;
+    background-color: #C25100;
+}
+
+.btn-third,.btn-third:visited{
+    color: #672b00;
+    background: none;
+    border-color: #C25100;
+    position: absolute;
+    top: 37px;
+    left: 1375px;
+}
+
+.btn-third:hover {
+    color: #FFFFFF;
+    background-color: #C25100;
+}
+
+.btn-default,.btn-default:visited{
+    color: #672b00;
+    background: none;
+    border-color: #C25100;
+}
+
+.btn-default:hover {
     color: #FFFFFF;
     background-color: #C25100;
 }
